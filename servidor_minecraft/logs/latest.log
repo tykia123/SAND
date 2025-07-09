@@ -3906,3 +3906,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
 [03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
 [03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[04:06:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:06:36] [Server thread/INFO]: <--[HERE]
+[04:06:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:06:40] [Server thread/INFO]: fin<--[HERE]
