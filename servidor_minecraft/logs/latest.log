@@ -6195,3 +6195,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22:18:33] [Server thread/INFO]: sesenzawa has made the advancement [Monster Hunter]
 [22:18:43] [Server thread/INFO]: sesenzawa has made the advancement [Stone Age]
 [22:18:57] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[22:19:15] [Server thread/INFO]: sesenzawa has made the advancement ['X' Marks the Spot]
+[22:19:18] [Server thread/INFO]: sesenzawa has made the advancement [Isn't It Iron Pick]
+[22:21:25] [User Authenticator #4/INFO]: UUID of player Ty_Kia is 3ed5f5db-24ce-43fd-8d65-a4a29510afa2
+[22:21:25] [Server thread/INFO]: [Handshake] Sending channel query
+[22:21:25] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[22:21:25] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[22:21:26] [Server thread/INFO]: Ty_Kia[/127.149.182.27:36067] logged in with entity id 2703 at (288.56836289125255, 118.0, 346.2609878669019)
+[22:21:26] [Server thread/INFO]: Sending server config values to client
+[22:21:26] [Server thread/INFO]: Syncing config to Ty_Kia (3ed5f5db-24ce-43fd-8d65-a4a29510afa2)
+[22:21:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:21:26] [Server thread/INFO]: Ty_Kia joined the game
+[22:21:26] [Netty Epoll Server IO #5/INFO]: [showmeyourskin] Client of Ty_Kia accepted server config.
+[22:21:26] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[22:21:27] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Ty_Kia. Claiming: GRAVE / Robbing: INVENTORY
+[22:21:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:21:27] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22:21:27] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22:21:27] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22:21:27] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22:21:27] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/SAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[22:23:19] [Worker-Main-4/WARN]: Empty height range: [-33 absolute--50 absolute]
+[22:24:57] [Server thread/INFO]: sesenzawa has made the advancement [Not Today, Thank You]
+[22:25:08] [Server thread/INFO]: sesenzawa has made the advancement [Path of Archer]
+[22:25:12] [Server thread/INFO]: Ty_Kia has made the advancement [Barrel Booty]
+[22:27:01] [Server thread/INFO]: Named entity class_1551['Dark Drowned'/3814, l='ServerLevel[world]', x=264.59, y=76.00, z=498.96] died: Dark Drowned was slain by Ty_Kia
+[22:27:09] [Server thread/INFO]: Named entity class_1551['Drowned Villager'/3702, l='ServerLevel[world]', x=271.70, y=83.00, z=497.52] died: Drowned Villager was slain by Ty_Kia
+[22:27:28] [Server thread/INFO]: Named entity class_1551['Dark Drowned'/3759, l='ServerLevel[world]', x=280.76, y=75.00, z=513.36] died: Dark Drowned was slain by sesenzawa
+[22:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[22:28:25] [Server thread/INFO]: Ty_Kia lost connection: Disconnected
+[22:28:25] [Server thread/INFO]: Ty_Kia left the game
