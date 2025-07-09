@@ -3903,3 +3903,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [03:39:43] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [03:39:43] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [03:39:43] [Server thread/INFO]: [STDOUT]: Caching sets
+[03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[03:55:45] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
